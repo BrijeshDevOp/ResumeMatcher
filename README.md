@@ -1,6 +1,6 @@
 # Resume Matcher (Flutter + Django)
 
-![Preview Image](screenshots\Resume_Matcher.png)
+![Preview Image](assets\screenshot.png)
 
 A smart full-stack application that helps job seekers optimize their resumes by matching them against job descriptions using AI-based semantic analysis.
 
