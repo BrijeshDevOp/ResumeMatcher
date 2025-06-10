@@ -1,0 +1,17 @@
+# Python (Django)
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+*.sqlite3
+
+# Flutter
+.dart_tool/
+.packages
+.build/
+.pub/
+build/
+.idea/
+.flutter-plugins
+.flutter-plugins-dependencies

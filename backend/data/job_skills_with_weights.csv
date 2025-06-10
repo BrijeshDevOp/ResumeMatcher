@@ -1,0 +1,1336 @@
+Job Role,Skill,Weight
+machine learning,ml,15
+machine learning,deep learning,15
+machine learning,neural networks,15
+machine learning,tensorflow,15
+machine learning,pytorch,15
+machine learning,scikit-learn,15
+machine learning,natural language processing,15
+machine learning,computer vision,15
+machine learning,reinforcement learning,15
+machine learning,generative models,15
+machine learning,time series analysis,15
+machine learning,explainable ai (xai),15
+machine learning,automl,15
+machine learning,federated learning,15
+machine learning,ai ethics,15
+data analysis,data analytics,16
+data analysis,data mining,16
+data analysis,data visualization,16
+data analysis,statistical analysis,16
+data analysis,excel,16
+data analysis,power bi,16
+data analysis,tableau,16
+data analysis,sql,16
+data analysis,r,16
+data analysis,"python (pandas, numpy, scipy, matplotlib, seaborn)",16
+data analysis,etl,16
+data analysis,data warehousing,16
+data analysis,business intelligence (bi),16
+data analysis,looker,16
+data analysis,data storytelling,16
+data analysis,snowflake,16
+cloud computing,aws,17
+cloud computing,azure,17
+cloud computing,gcp,17
+cloud computing,cloud services,17
+cloud computing,cloud architecture,17
+cloud computing,docker,17
+cloud computing,kubernetes,17
+cloud computing,serverless,17
+cloud computing,cloud security,17
+cloud computing,iaas,17
+cloud computing,paas,17
+cloud computing,saas,17
+cloud computing,cloud migration,17
+cloud computing,devops on cloud,17
+cloud computing,multi-cloud,17
+cloud computing,edge computing,17
+cloud computing,cloud cost optimization,17
+web development,frontend,20
+web development,backend,20
+web development,full-stack,20
+web development,html,20
+web development,css,20
+web development,javascript,20
+web development,react,20
+web development,angular,20
+web development,vue.js,20
+web development,node.js,20
+web development,"python (django, flask)",20
+web development,ruby on rails,20
+web development,php,20
+web development,restful apis,20
+web development,graphql,20
+web development,responsive design,20
+web development,web security,20
+web development,typescript,20
+web development,next.js,20
+web development,web accessibility,20
+mobile development,ios,13
+mobile development,android,13
+mobile development,react native,13
+mobile development,flutter,13
+mobile development,swift,13
+mobile development,kotlin,13
+mobile development,mobile apps,13
+mobile development,mobile ui/ux,13
+mobile development,mobile testing,13
+mobile development,cross-platform development,13
+mobile development,maui,13
+mobile development,mobile security,13
+mobile development,app store optimization,13
+software development,programming,17
+software development,coding,17
+software development,algorithms,17
+software development,data structures,17
+software development,software engineering,17
+software development,testing,17
+software development,debugging,17
+software development,agile,17
+software development,scrum,17
+software development,waterfall,17
+software development,version control (git),17
+software development,software architecture,17
+software development,object-oriented programming (oop),17
+software development,functional programming,17
+software development,clean code,17
+software development,microservices,17
+software development,tdd (test-driven development),17
+cybersecurity,information security,13
+cybersecurity,network security,13
+cybersecurity,penetration testing,13
+cybersecurity,vulnerability assessment,13
+cybersecurity,security analysis,13
+cybersecurity,cyber threats,13
+cybersecurity,ethical hacking,13
+cybersecurity,incident response,13
+cybersecurity,security auditing,13
+cybersecurity,cryptography,13
+cybersecurity,zero trust,13
+cybersecurity,soc (security operations center),13
+cybersecurity,threat hunting,13
+database management,databases,14
+database management,sql,14
+database management,nosql,14
+database management,mysql,14
+database management,postgresql,14
+database management,mongodb,14
+database management,database design,14
+database management,data modeling,14
+database management,database administration,14
+database management,data migration,14
+database management,database security,14
+database management,redis,14
+database management,dynamodb,14
+database management,database performance tuning,14
+project management,project planning,13
+project management,project execution,13
+project management,risk management,13
+project management,stakeholder management,13
+project management,agile,13
+project management,scrum,13
+project management,pmp,13
+project management,project coordination,13
+project management,critical path method (cpm),13
+project management,earned value management (evm),13
+project management,kanban,13
+project management,jira,13
+project management,hybrid project management,13
+business analysis,requirements gathering,12
+business analysis,process modeling,12
+business analysis,business intelligence,12
+business analysis,stakeholder analysis,12
+business analysis,functional analysis,12
+business analysis,business process improvement,12
+business analysis,use case analysis,12
+business analysis,gap analysis,12
+business analysis,agile business analysis,12
+business analysis,product ownership,12
+business analysis,bpmn,12
+business analysis,data-driven decision making,12
+digital marketing,seo,13
+digital marketing,sem,13
+digital marketing,social media marketing,13
+digital marketing,content marketing,13
+digital marketing,email marketing,13
+digital marketing,online advertising,13
+digital marketing,marketing analytics,13
+digital marketing,crm,13
+digital marketing,marketing automation,13
+digital marketing,affiliate marketing,13
+digital marketing,influencer marketing,13
+digital marketing,ga4 (google analytics 4),13
+digital marketing,tiktok marketing,13
+networking,network administration,13
+networking,network engineering,13
+networking,cisco,13
+networking,juniper,13
+networking,lan,13
+networking,wan,13
+networking,tcp/ip,13
+networking,"network protocols (http, dns, smtp)",13
+networking,network security,13
+networking,wireless networking,13
+networking,sd-wan,13
+networking,network automation,13
+networking,5g technologies,13
+devops,continuous integration,15
+devops,continuous deployment,15
+devops,automation,15
+devops,infrastructure as code,15
+devops,configuration management,15
+devops,ci/cd,15
+devops,ansible,15
+devops,terraform,15
+devops,jenkins,15
+devops,kubernetes,15
+devops,monitoring,15
+devops,logging,15
+devops,prometheus,15
+devops,grafana,15
+devops,gitops,15
+artificial intelligence,ai,11
+artificial intelligence,machine intelligence,11
+artificial intelligence,cognitive computing,11
+artificial intelligence,expert systems,11
+artificial intelligence,intelligent agents,11
+artificial intelligence,natural language understanding (nlu),11
+artificial intelligence,knowledge representation,11
+artificial intelligence,reasoning,11
+artificial intelligence,ai governance,11
+artificial intelligence,large language models (llms),11
+artificial intelligence,ai orchestration,11
+user experience (ux),ux design,12
+user experience (ux),user research,12
+user experience (ux),wireframing,12
+user experience (ux),prototyping,12
+user experience (ux),usability testing,12
+user experience (ux),interaction design,12
+user experience (ux),information architecture,12
+user experience (ux),user flows,12
+user experience (ux),persona development,12
+user experience (ux),journey mapping,12
+user experience (ux),inclusive design,12
+user experience (ux),ux analytics,12
+user interface (ui),ui design,12
+user interface (ui),visual design,12
+user interface (ui),interface design,12
+user interface (ui),design systems,12
+user interface (ui),adobe xd,12
+user interface (ui),figma,12
+user interface (ui),sketch,12
+user interface (ui),user interface patterns,12
+user interface (ui),accessibility (a11y),12
+user interface (ui),motion design,12
+user interface (ui),micro-interactions,12
+user interface (ui),framer,12
+data science,data analysis,12
+data science,machine learning,12
+data science,statistical modeling,12
+data science,data engineering,12
+data science,big data,12
+data science,data interpretation,12
+data science,predictive modeling,12
+data science,causal inference,12
+data science,experiment design,12
+data science,feature engineering,12
+data science,mlops,12
+data science,bayesian inference,12
+electrical engineering,circuit design,12
+electrical engineering,power systems,12
+electrical engineering,electronics,12
+electrical engineering,microcontrollers,12
+electrical engineering,signal processing,12
+electrical engineering,embedded systems,12
+electrical engineering,analog design,12
+electrical engineering,digital design,12
+electrical engineering,control engineering,12
+electrical engineering,iot,12
+electrical engineering,pcb design,12
+electrical engineering,renewable energy systems,12
+mechanical engineering,thermodynamics,12
+mechanical engineering,fluid mechanics,12
+mechanical engineering,solid mechanics,12
+mechanical engineering,design engineering,12
+mechanical engineering,manufacturing,12
+mechanical engineering,"cad (solidworks, autocad)",12
+mechanical engineering,cam,12
+mechanical engineering,finite element analysis (fea),12
+mechanical engineering,mechatronics,12
+mechanical engineering,3d printing,12
+mechanical engineering,robotics integration,12
+mechanical engineering,thermal management,12
+chemical engineering,process engineering,12
+chemical engineering,reaction engineering,12
+chemical engineering,mass transfer,12
+chemical engineering,heat transfer,12
+chemical engineering,chemical processes,12
+chemical engineering,plant design,12
+chemical engineering,process control,12
+chemical engineering,chemical kinetics,12
+chemical engineering,thermodynamics,12
+chemical engineering,sustainable processes,12
+chemical engineering,bioprocess engineering,12
+chemical engineering,process simulation,12
+civil engineering,structural engineering,11
+civil engineering,geotechnical engineering,11
+civil engineering,transportation engineering,11
+civil engineering,water resources,11
+civil engineering,construction management,11
+civil engineering,surveying,11
+civil engineering,environmental engineering,11
+civil engineering,urban planning,11
+civil engineering,bim (building information modeling),11
+civil engineering,smart cities,11
+civil engineering,resilient infrastructure,11
+biotechnology,biopharmaceuticals,12
+biotechnology,genetic engineering,12
+biotechnology,molecular biology,12
+biotechnology,biochemistry,12
+biotechnology,bioinformatics,12
+biotechnology,drug discovery,12
+biotechnology,genomics,12
+biotechnology,proteomics,12
+biotechnology,cell culture,12
+biotechnology,crispr,12
+biotechnology,synthetic biology,12
+biotechnology,bioprocessing,12
+finance,financial analysis,12
+finance,investment banking,12
+finance,portfolio management,12
+finance,financial modeling,12
+finance,accounting,12
+finance,valuation,12
+finance,corporate finance,12
+finance,risk management,12
+finance,financial reporting,12
+finance,fintech,12
+finance,blockchain finance,12
+finance,esg investing,12
+human resources,hr,12
+human resources,talent acquisition,12
+human resources,employee relations,12
+human resources,compensation and benefits,12
+human resources,hr management,12
+human resources,learning and development,12
+human resources,performance management,12
+human resources,hr analytics,12
+human resources,employee engagement,12
+human resources,"dei (diversity, equity, inclusion)",12
+human resources,remote work strategies,12
+human resources,people analytics,12
+supply chain management,logistics,11
+supply chain management,procurement,11
+supply chain management,inventory management,11
+supply chain management,supply chain optimization,11
+supply chain management,operations management,11
+supply chain management,demand forecasting,11
+supply chain management,warehouse management,11
+supply chain management,transportation management,11
+supply chain management,blockchain in supply chain,11
+supply chain management,sustainability in supply chain,11
+supply chain management,digital twins,11
+sales,business development,11
+sales,account management,11
+sales,sales strategy,11
+sales,customer relationship management (crm),11
+sales,sales operations,11
+sales,lead generation,11
+sales,sales forecasting,11
+sales,negotiation,11
+sales,salesforce,11
+sales,pipeline management,11
+sales,value-based selling,11
+marketing,brand management,12
+marketing,market research,12
+marketing,advertising,12
+marketing,marketing strategy,12
+marketing,product marketing,12
+marketing,digital marketing,12
+marketing,content marketing,12
+marketing,social media marketing,12
+marketing,marketing communications,12
+marketing,growth hacking,12
+marketing,omnichannel marketing,12
+marketing,customer journey mapping,12
+content creation,writing,12
+content creation,blogging,12
+content creation,copywriting,12
+content creation,video production,12
+content creation,graphic design,12
+content creation,content strategy,12
+content creation,storytelling,12
+content creation,scriptwriting,12
+content creation,podcasting,12
+content creation,ai-assisted content creation,12
+content creation,interactive content,12
+content creation,content localization,12
+technical writing,documentation,10
+technical writing,user manuals,10
+technical writing,api documentation,10
+technical writing,technical communication,10
+technical writing,report writing,10
+technical writing,editing,10
+technical writing,information architecture,10
+technical writing,knowledge base management,10
+technical writing,markdown,10
+technical writing,technical illustration,10
+quality assurance,qa,12
+quality assurance,testing,12
+quality assurance,software testing,12
+quality assurance,manual testing,12
+quality assurance,automation testing,12
+quality assurance,quality control,12
+quality assurance,test planning,12
+quality assurance,test execution,12
+quality assurance,bug tracking,12
+quality assurance,playwright,12
+quality assurance,selenium,12
+quality assurance,performance testing,12
+customer support,customer service,11
+customer support,technical support,11
+customer support,help desk,11
+customer support,customer success,11
+customer support,client relations,11
+customer support,troubleshooting,11
+customer support,communication skills,11
+customer support,customer satisfaction,11
+customer support,omnichannel support,11
+customer support,chatbots,11
+customer support,cx (customer experience) design,11
+research,scientific research,12
+research,data collection,12
+research,analysis,12
+research,experimentation,12
+research,literature review,12
+research,academic research,12
+research,qualitative research,12
+research,quantitative research,12
+research,research design,12
+research,open science,12
+research,research ethics,12
+research,mixed methods research,12
+teaching,education,12
+teaching,instruction,12
+teaching,tutoring,12
+teaching,curriculum development,12
+teaching,pedagogy,12
+teaching,e-learning,12
+teaching,assessment,12
+teaching,classroom management,12
+teaching,educational technology,12
+teaching,blended learning,12
+teaching,gamification in education,12
+teaching,learning analytics,12
+translation,language translation,9
+translation,interpretation,9
+translation,localization,9
+translation,multilingual,9
+translation,proofreading,9
+translation,editing,9
+translation,machine translation post-editing,9
+translation,cultural adaptation,9
+translation,real-time translation,9
+legal,law,12
+legal,legal advice,12
+legal,contract law,12
+legal,intellectual property,12
+legal,litigation,12
+legal,compliance,12
+legal,legal research,12
+legal,legal writing,12
+legal,corporate law,12
+legal,"data privacy (gdpr, ccpa)",12
+legal,regtech,12
+legal,esg compliance,12
+healthcare,medicine,12
+healthcare,nursing,12
+healthcare,pharmacy,12
+healthcare,medical devices,12
+healthcare,patient care,12
+healthcare,clinical research,12
+healthcare,healthcare management,12
+healthcare,public health,12
+healthcare,medical terminology,12
+healthcare,telemedicine,12
+healthcare,health informatics,12
+healthcare,precision medicine,12
+environmental science,ecology,11
+environmental science,conservation,11
+environmental science,sustainability,11
+environmental science,environmental policy,11
+environmental science,climate change,11
+environmental science,environmental management,11
+environmental science,environmental impact assessment,11
+environmental science,renewable energy,11
+environmental science,carbon footprint analysis,11
+environmental science,circular economy,11
+environmental science,esg reporting,11
+physics,theoretical physics,12
+physics,experimental physics,12
+physics,astrophysics,12
+physics,quantum mechanics,12
+physics,electromagnetism,12
+physics,optics,12
+physics,thermodynamics,12
+physics,particle physics,12
+physics,condensed matter physics,12
+physics,computational physics,12
+physics,plasma physics,12
+physics,quantum technologies,12
+chemistry,organic chemistry,12
+chemistry,inorganic chemistry,12
+chemistry,physical chemistry,12
+chemistry,analytical chemistry,12
+chemistry,biochemistry,12
+chemistry,materials science,12
+chemistry,spectroscopy,12
+chemistry,chromatography,12
+chemistry,chemical synthesis,12
+chemistry,green chemistry,12
+chemistry,computational chemistry,12
+chemistry,catalysis,12
+mathematics,algebra,12
+mathematics,calculus,12
+mathematics,statistics,12
+mathematics,probability,12
+mathematics,discrete mathematics,12
+mathematics,mathematical modeling,12
+mathematics,linear algebra,12
+mathematics,differential equations,12
+mathematics,numerical analysis,12
+mathematics,optimization,12
+mathematics,topology,12
+mathematics,applied mathematics,12
+economics,microeconomics,11
+economics,macroeconomics,11
+economics,econometrics,11
+economics,financial economics,11
+economics,public policy,11
+economics,game theory,11
+economics,international economics,11
+economics,labor economics,11
+economics,behavioral economics,11
+economics,development economics,11
+economics,crypto economics,11
+political science,international relations,11
+political science,political theory,11
+political science,public administration,11
+political science,comparative politics,11
+political science,policy analysis,11
+political science,political economy,11
+political science,diplomacy,11
+political science,governance,11
+political science,geopolitics,11
+political science,civic tech,11
+political science,public opinion analysis,11
+psychology,clinical psychology,11
+psychology,cognitive psychology,11
+psychology,social psychology,11
+psychology,developmental psychology,11
+psychology,counseling,11
+psychology,neuropsychology,11
+psychology,behavioral psychology,11
+psychology,research methods,11
+psychology,positive psychology,11
+psychology,trauma-informed care,11
+psychology,psychometrics,11
+sociology,social theory,11
+sociology,social inequality,11
+sociology,demography,11
+sociology,urban sociology,11
+sociology,criminology,11
+sociology,research methods,11
+sociology,social policy,11
+sociology,cultural sociology,11
+sociology,digital sociology,11
+sociology,globalization,11
+sociology,social network analysis,11
+philosophy,ethics,12
+philosophy,metaphysics,12
+philosophy,epistemology,12
+philosophy,logic,12
+philosophy,political philosophy,12
+philosophy,history of philosophy,12
+philosophy,philosophy of science,12
+philosophy,aesthetics,12
+philosophy,philosophy of mind,12
+philosophy,philosophy of technology,12
+philosophy,existentialism,12
+philosophy,applied ethics,12
+linguistics,phonetics,12
+linguistics,phonology,12
+linguistics,morphology,12
+linguistics,syntax,12
+linguistics,semantics,12
+linguistics,pragmatics,12
+linguistics,computational linguistics,12
+linguistics,sociolinguistics,12
+linguistics,historical linguistics,12
+linguistics,psycholinguistics,12
+linguistics,language acquisition,12
+linguistics,neurolinguistics,12
+architecture,architectural design,10
+architecture,urban planning,10
+architecture,sustainable architecture,10
+architecture,building information modeling (bim),10
+architecture,architectural history,10
+architecture,landscape architecture,10
+architecture,interior architecture,10
+architecture,parametric design,10
+architecture,smart buildings,10
+architecture,adaptive reuse,10
+graphic design,visual communication,12
+graphic design,typography,12
+graphic design,illustration,12
+graphic design,branding,12
+graphic design,web design,12
+graphic design,motion graphics,12
+graphic design,layout design,12
+graphic design,print design,12
+graphic design,digital design,12
+graphic design,augmented reality design,12
+graphic design,nft art,12
+graphic design,generative design,12
+video editing,video production,12
+video editing,post-production,12
+video editing,motion graphics,12
+video editing,storytelling,12
+video editing,adobe premiere pro,12
+video editing,final cut pro,12
+video editing,davinci resolve,12
+video editing,color correction,12
+video editing,audio editing,12
+video editing,360 video editing,12
+video editing,ai-assisted editing,12
+video editing,short-form video,12
+photography,portrait photography,12
+photography,landscape photography,12
+photography,commercial photography,12
+photography,photo editing,12
+photography,adobe photoshop,12
+photography,lightroom,12
+photography,digital photography,12
+photography,film photography,12
+photography,studio lighting,12
+photography,drone photography,12
+photography,computational photography,12
+photography,photojournalism,12
+music production,audio engineering,12
+music production,sound design,12
+music production,mixing,12
+music production,mastering,12
+music production,music theory,12
+music production,"digital audio workstations (daws) (ableton, logic pro x)",12
+music production,sound recording,12
+music production,instrumentation,12
+music production,music composition,12
+music production,spatial audio,12
+music production,music for metaverse,12
+music production,ai music generation,12
+game development,game design,13
+game development,unity,13
+game development,unreal engine,13
+game development,c#,13
+game development,c++,13
+game development,level design,13
+game development,game programming,13
+game development,3d modeling,13
+game development,animation,13
+game development,game art,13
+game development,vr/ar development,13
+game development,blockchain gaming,13
+game development,playtesting automation,13
+animation,2d animation,11
+animation,3d animation,11
+animation,motion graphics,11
+animation,character animation,11
+animation,storyboarding,11
+animation,visual effects (vfx),11
+animation,rigging,11
+animation,texturing,11
+animation,real-time animation,11
+animation,mocap (motion capture),11
+animation,ai-driven animation,11
+robotics,robot design,12
+robotics,control systems,12
+robotics,automation,12
+robotics,embedded systems,12
+robotics,sensors,12
+robotics,actuators,12
+robotics,robot operating system (ros),12
+robotics,computer vision,12
+robotics,mechatronics,12
+robotics,swarm robotics,12
+robotics,human-robot interaction,12
+robotics,soft robotics,12
+biomedical engineering,medical imaging,11
+biomedical engineering,biomechanics,11
+biomedical engineering,tissue engineering,11
+biomedical engineering,biomaterials,11
+biomedical engineering,prosthetics,11
+biomedical engineering,medical device design,11
+biomedical engineering,biosensors,11
+biomedical engineering,drug delivery systems,11
+biomedical engineering,wearable health devices,11
+biomedical engineering,organ-on-chip,11
+biomedical engineering,biofabrication,11
+materials science,nanomaterials,11
+materials science,polymers,11
+materials science,ceramics,11
+materials science,composites,11
+materials science,materials characterization,11
+materials science,materials processing,11
+materials science,metallurgy,11
+materials science,surface science,11
+materials science,smart materials,11
+materials science,biomaterials,11
+materials science,quantum materials,11
+ergonomics,human factors,10
+ergonomics,workspace design,10
+ergonomics,usability,10
+ergonomics,comfort,10
+ergonomics,safety,10
+ergonomics,biomechanics,10
+ergonomics,human-computer interaction (hci),10
+ergonomics,inclusive ergonomics,10
+ergonomics,vr ergonomics,10
+ergonomics,cognitive ergonomics,10
+public relations,pr,11
+public relations,media relations,11
+public relations,communications,11
+public relations,crisis management,11
+public relations,public affairs,11
+public relations,social media management,11
+public relations,content creation,11
+public relations,event management,11
+public relations,influencer relations,11
+public relations,esg communication,11
+public relations,digital pr,11
+journalism,news writing,12
+journalism,reporting,12
+journalism,investigative journalism,12
+journalism,editing,12
+journalism,broadcasting,12
+journalism,photojournalism,12
+journalism,data journalism,12
+journalism,digital journalism,12
+journalism,fact-checking,12
+journalism,multimedia storytelling,12
+journalism,citizen journalism,12
+journalism,ai-assisted reporting,12
+film production,directing,12
+film production,cinematography,12
+film production,screenwriting,12
+film production,sound recording,12
+film production,set design,12
+film production,lighting,12
+film production,editing,12
+film production,visual effects,12
+film production,production management,12
+film production,virtual production,12
+film production,immersive filmmaking,12
+film production,sustainable filmmaking,12
+fashion design,clothing design,11
+fashion design,textile design,11
+fashion design,pattern making,11
+fashion design,fashion illustration,11
+fashion design,styling,11
+fashion design,fashion marketing,11
+fashion design,merchandising,11
+fashion design,sustainable fashion,11
+fashion design,digital fashion,11
+fashion design,3d fashion design,11
+fashion design,wearable tech,11
+interior design,space planning,11
+interior design,furniture selection,11
+interior design,color theory,11
+interior design,lighting design,11
+interior design,decoration,11
+interior design,3d rendering,11
+interior design,sustainable design,11
+interior design,universal design,11
+interior design,biophilic design,11
+interior design,smart home integration,11
+interior design,virtual staging,11
+event planning,event management,11
+event planning,logistics,11
+event planning,coordination,11
+event planning,budgeting,11
+event planning,vendor management,11
+event planning,marketing,11
+event planning,sponsorship,11
+event planning,risk management,11
+event planning,hybrid events,11
+event planning,virtual events,11
+event planning,experiential marketing,11
+nonprofit management,fundraising,11
+nonprofit management,grant writing,11
+nonprofit management,program development,11
+nonprofit management,volunteer management,11
+nonprofit management,social impact,11
+nonprofit management,nonprofit accounting,11
+nonprofit management,community outreach,11
+nonprofit management,strategic planning,11
+nonprofit management,impact measurement,11
+nonprofit management,digital fundraising,11
+nonprofit management,donor retention,11
+supply chain,logistics,11
+supply chain,procurement,11
+supply chain,inventory management,11
+supply chain,supply chain optimization,11
+supply chain,operations management,11
+supply chain,demand planning,11
+supply chain,supplier relationship management,11
+supply chain,global supply chain,11
+supply chain,ai in supply chain,11
+supply chain,resilient supply chains,11
+supply chain,supply chain analytics,11
+operations,process improvement,12
+operations,efficiency,12
+operations,lean,12
+operations,six sigma,12
+operations,quality control,12
+operations,workflow optimization,12
+operations,process mapping,12
+operations,business process re-engineering,12
+operations,kaizen,12
+operations,robotic process automation (rpa),12
+operations,value stream mapping,12
+operations,digital transformation,12
+data engineering,etl,11
+data engineering,data warehousing,11
+data engineering,data pipelines,11
+data engineering,"big data technologies (hadoop, spark)",11
+data engineering,data modeling,11
+data engineering,database administration,11
+data engineering,cloud data services,11
+data engineering,data governance,11
+data engineering,data lakes,11
+data engineering,kafka,11
+data engineering,real-time data processing,11
+natural language processing,nlp,11
+natural language processing,text analysis,11
+natural language processing,sentiment analysis,11
+natural language processing,language modeling,11
+natural language processing,machine translation,11
+natural language processing,information retrieval,11
+natural language processing,chatbot development,11
+natural language processing,topic modeling,11
+natural language processing,speech recognition,11
+natural language processing,llm fine-tuning,11
+natural language processing,text-to-speech,11
+computer vision,image recognition,10
+computer vision,object detection,10
+computer vision,image segmentation,10
+computer vision,video analysis,10
+computer vision,facial recognition,10
+computer vision,image processing,10
+computer vision,deep learning for vision,10
+computer vision,edge vision,10
+computer vision,synthetic data generation,10
+computer vision,3d reconstruction,10
+game theory,strategic thinking,9
+game theory,decision theory,9
+game theory,auctions,9
+game theory,mechanism design,9
+game theory,cooperative games,9
+game theory,non-cooperative games,9
+game theory,algorithmic game theory,9
+game theory,behavioral game theory,9
+game theory,evolutionary game theory,9
+cryptography,encryption,10
+cryptography,decryption,10
+cryptography,hashing,10
+cryptography,digital signatures,10
+cryptography,cryptographic protocols,10
+cryptography,network security,10
+cryptography,applied cryptography,10
+cryptography,post-quantum cryptography,10
+cryptography,homomorphic encryption,10
+cryptography,blockchain security,10
+bioinformatics,genomics,10
+bioinformatics,proteomics,10
+bioinformatics,sequence analysis,10
+bioinformatics,phylogenetics,10
+bioinformatics,systems biology,10
+bioinformatics,biostatistics,10
+bioinformatics,computational biology,10
+bioinformatics,metagenomics,10
+bioinformatics,single-cell analysis,10
+bioinformatics,structural bioinformatics,10
+genetics,molecular genetics,9
+genetics,population genetics,9
+genetics,genomics,9
+genetics,epigenetics,9
+genetics,genetic engineering,9
+genetics,heredity,9
+genetics,gene editing,9
+genetics,functional genomics,9
+genetics,pharmacogenomics,9
+neuroscience,cognitive neuroscience,9
+neuroscience,behavioral neuroscience,9
+neuroscience,cellular neuroscience,9
+neuroscience,systems neuroscience,9
+neuroscience,neuroimaging,9
+neuroscience,neuroanatomy,9
+neuroscience,neuroplasticity,9
+neuroscience,computational neuroscience,9
+neuroscience,neuroethics,9
+pharmacology,drug discovery,9
+pharmacology,pharmacokinetics,9
+pharmacology,pharmacodynamics,9
+pharmacology,toxicology,9
+pharmacology,clinical pharmacology,9
+pharmacology,pharmaceutical chemistry,9
+pharmacology,personalized medicine,9
+pharmacology,drug repurposing,9
+pharmacology,nanomedicine,9
+public health,epidemiology,9
+public health,biostatistics,9
+public health,health policy,9
+public health,environmental health,9
+public health,global health,9
+public health,health education,9
+public health,digital health,9
+public health,health equity,9
+public health,pandemic preparedness,9
+social work,case management,9
+social work,counseling,9
+social work,community organizing,9
+social work,social policy,9
+social work,advocacy,9
+social work,human services,9
+social work,trauma-informed care,9
+social work,cultural competence,9
+social work,social justice,9
+urban planning,land use planning,9
+urban planning,transportation planning,9
+urban planning,environmental planning,9
+urban planning,community development,9
+urban planning,urban design,9
+urban planning,zoning,9
+urban planning,smart cities,9
+urban planning,resilient urban planning,9
+urban planning,participatory planning,9
+renewable energy,solar power,10
+renewable energy,wind power,10
+renewable energy,hydropower,10
+renewable energy,geothermal energy,10
+renewable energy,bioenergy,10
+renewable energy,energy storage,10
+renewable energy,power electronics,10
+renewable energy,hydrogen energy,10
+renewable energy,microgrids,10
+renewable energy,energy transition,10
+nanotechnology,nanomaterials,9
+nanotechnology,nanofabrication,9
+nanotechnology,nanoscience,9
+nanotechnology,nanomedicine,9
+nanotechnology,nanophotonics,9
+nanotechnology,nanoelectronics,9
+nanotechnology,nanorobotics,9
+nanotechnology,nanobiotechnology,9
+nanotechnology,quantum nanotechnology,9
+astronomy,astrophysics,9
+astronomy,cosmology,9
+astronomy,planetary science,9
+astronomy,stellar evolution,9
+astronomy,observational astronomy,9
+astronomy,theoretical astronomy,9
+astronomy,exoplanet research,9
+astronomy,gravitational waves,9
+astronomy,radio astronomy,9
+quantum computing,quantum algorithms,8
+quantum computing,quantum hardware,8
+quantum computing,quantum information theory,8
+quantum computing,quantum cryptography,8
+quantum computing,quantum machine learning,8
+quantum computing,quantum simulation,8
+quantum computing,quantum error correction,8
+quantum computing,quantum supremacy,8
+linguistic analysis,corpus linguistics,8
+linguistic analysis,discourse analysis,8
+linguistic analysis,stylistics,8
+linguistic analysis,historical linguistics,8
+linguistic analysis,computational linguistics,8
+linguistic analysis,sentiment analysis,8
+linguistic analysis,text mining,8
+linguistic analysis,cross-linguistic studies,8
+film studies,film history,9
+film studies,film theory,9
+film studies,film criticism,9
+film studies,screenwriting,9
+film studies,cinematography,9
+film studies,film editing,9
+film studies,film preservation,9
+film studies,global cinema,9
+film studies,experimental film,9
+theater,acting,9
+theater,directing,9
+theater,playwriting,9
+theater,stage design,9
+theater,lighting design,9
+theater,costume design,9
+theater,theater history,9
+theater,immersive theater,9
+theater,community theater,9
+dance,ballet,9
+dance,contemporary dance,9
+dance,jazz dance,9
+dance,hip-hop dance,9
+dance,choreography,9
+dance,dance history,9
+dance,dance therapy,9
+dance,dance technology,9
+dance,inclusive dance,9
+fine arts,painting,10
+fine arts,sculpture,10
+fine arts,drawing,10
+fine arts,printmaking,10
+fine arts,ceramics,10
+fine arts,art history,10
+fine arts,art criticism,10
+fine arts,mixed media,10
+fine arts,digital art,10
+fine arts,public art,10
+music theory,harmony,9
+music theory,counterpoint,9
+music theory,music history,9
+music theory,music analysis,9
+music theory,composition,9
+music theory,orchestration,9
+music theory,ethnomusicology,9
+music theory,music cognition,9
+music theory,algorithmic composition,9
+music performance,instrumental performance,7
+music performance,vocal performance,7
+music performance,conducting,7
+music performance,ensemble performance,7
+music performance,music pedagogy,7
+music performance,improvisation,7
+music performance,live looping,7
+creative writing,fiction writing,9
+creative writing,poetry writing,9
+creative writing,screenwriting,9
+creative writing,playwriting,9
+creative writing,creative nonfiction,9
+creative writing,storytelling,9
+creative writing,hybrid genres,9
+creative writing,digital storytelling,9
+creative writing,writing for vr,9
+game design,level design,10
+game design,narrative design,10
+game design,system design,10
+game design,ui/ux design,10
+game design,game mechanics,10
+game design,balancing,10
+game design,playtesting,10
+game design,serious games,10
+game design,gamification,10
+game design,procedural content generation,10
+philosophy of science,epistemology of science,8
+philosophy of science,metaphysics of science,8
+philosophy of science,philosophy of physics,8
+philosophy of science,philosophy of biology,8
+philosophy of science,philosophy of social science,8
+philosophy of science,scientific realism,8
+philosophy of science,causation,8
+philosophy of science,philosophy of ai,8
+social psychology,attitude change,8
+social psychology,social cognition,8
+social psychology,group dynamics,8
+social psychology,interpersonal relationships,8
+social psychology,prejudice and discrimination,8
+social psychology,social influence,8
+social psychology,online behavior,8
+social psychology,cross-cultural psychology,8
+cognitive psychology,perception,9
+cognitive psychology,attention,9
+cognitive psychology,memory,9
+cognitive psychology,language,9
+cognitive psychology,problem-solving,9
+cognitive psychology,decision-making,9
+cognitive psychology,cognitive neuroscience,9
+cognitive psychology,embodied cognition,9
+cognitive psychology,cognitive biases,9
+developmental psychology,child development,8
+developmental psychology,adolescent development,8
+developmental psychology,adult development,8
+developmental psychology,lifespan development,8
+developmental psychology,cognitive development,8
+developmental psychology,social-emotional development,8
+developmental psychology,attachment theory,8
+developmental psychology,developmental interventions,8
+clinical psychology,psychopathology,8
+clinical psychology,psychotherapy,8
+clinical psychology,psychological assessment,8
+clinical psychology,diagnosis,8
+clinical psychology,treatment,8
+clinical psychology,mental health,8
+clinical psychology,teletherapy,8
+clinical psychology,evidence-based practice,8
+counseling psychology,career counseling,7
+counseling psychology,school counseling,7
+counseling psychology,mental health counseling,7
+counseling psychology,relationship counseling,7
+counseling psychology,addiction counseling,7
+counseling psychology,group therapy,7
+counseling psychology,multicultural counseling,7
+industrial-organizational psychology,organizational behavior,8
+industrial-organizational psychology,human resources,8
+industrial-organizational psychology,training and development,8
+industrial-organizational psychology,performance appraisal,8
+industrial-organizational psychology,job satisfaction,8
+industrial-organizational psychology,leadership,8
+industrial-organizational psychology,workplace diversity,8
+industrial-organizational psychology,remote work psychology,8
+environmental psychology,human-environment interaction,7
+environmental psychology,environmental attitudes,7
+environmental psychology,conservation behavior,7
+environmental psychology,restorative environments,7
+environmental psychology,environmental stress,7
+environmental psychology,climate psychology,7
+environmental psychology,biophilic design,7
+forensic psychology,criminal behavior,8
+forensic psychology,eyewitness testimony,8
+forensic psychology,jury selection,8
+forensic psychology,risk assessment,8
+forensic psychology,correctional psychology,8
+forensic psychology,legal psychology,8
+forensic psychology,victimology,8
+forensic psychology,profiling,8
+health psychology,stress management,8
+health psychology,coping,8
+health psychology,health behaviors,8
+health psychology,chronic illness,8
+health psychology,pain management,8
+health psychology,psychoneuroimmunology,8
+health psychology,digital health interventions,8
+health psychology,behavior change,8
+school psychology,academic achievement,8
+school psychology,learning disabilities,8
+school psychology,behavioral problems,8
+school psychology,social-emotional learning,8
+school psychology,school climate,8
+school psychology,assessment,8
+school psychology,mtss (multi-tiered systems of support),8
+school psychology,crisis intervention,8
+augmented reality (ar),ar development,11
+augmented reality (ar),ar design,11
+augmented reality (ar),unity,11
+augmented reality (ar),unreal engine,11
+augmented reality (ar),arkit,11
+augmented reality (ar),arcore,11
+augmented reality (ar),spatial computing,11
+augmented reality (ar),holography,11
+augmented reality (ar),ar user experience,11
+augmented reality (ar),wearable ar,11
+augmented reality (ar),ar content creation,11
+virtual reality (vr),vr development,11
+virtual reality (vr),vr design,11
+virtual reality (vr),oculus,11
+virtual reality (vr),htc vive,11
+virtual reality (vr),vr storytelling,11
+virtual reality (vr),motion tracking,11
+virtual reality (vr),vr simulations,11
+virtual reality (vr),vr gaming,11
+virtual reality (vr),vr training,11
+virtual reality (vr),immersive environments,11
+virtual reality (vr),vr accessibility,11
+blockchain technology,smart contracts,11
+blockchain technology,decentralized finance (defi),11
+blockchain technology,ethereum,11
+blockchain technology,solidity,11
+blockchain technology,hyperledger,11
+blockchain technology,blockchain security,11
+blockchain technology,nfts,11
+blockchain technology,distributed ledger,11
+blockchain technology,web3,11
+blockchain technology,tokenomics,11
+blockchain technology,blockchain interoperability,11
+product management,product lifecycle,11
+product management,roadmapping,11
+product management,user stories,11
+product management,mvp development,11
+product management,product-market fit,11
+product management,go-to-market strategy,11
+product management,a/b testing,11
+product management,customer feedback,11
+product management,cross-functional leadership,11
+product management,product analytics,11
+product management,agile product management,11
+sustainability consulting,carbon management,10
+sustainability consulting,esg frameworks,10
+sustainability consulting,sustainability strategy,10
+sustainability consulting,circular economy,10
+sustainability consulting,green certifications,10
+sustainability consulting,life cycle assessment,10
+sustainability consulting,sustainable innovation,10
+sustainability consulting,energy auditing,10
+sustainability consulting,stakeholder engagement,10
+sustainability consulting,net-zero planning,10
+data governance,data privacy,11
+data governance,data ethics,11
+data governance,gdpr,11
+data governance,ccpa,11
+data governance,data quality,11
+data governance,data stewardship,11
+data governance,metadata management,11
+data governance,data compliance,11
+data governance,data lineage,11
+data governance,data security policies,11
+data governance,data cataloging,11
+metaverse development,virtual worlds,11
+metaverse development,3d modeling,11
+metaverse development,spatial audio,11
+metaverse development,avatar creation,11
+metaverse development,metaverse platforms,11
+metaverse development,decentraland,11
+metaverse development,sandbox,11
+metaverse development,interoperability,11
+metaverse development,metaverse economy,11
+metaverse development,social vr,11
+metaverse development,mixed reality,11
+e-commerce,online retail,11
+e-commerce,shopify,11
+e-commerce,woocommerce,11
+e-commerce,magento,11
+e-commerce,customer journey,11
+e-commerce,conversion rate optimization,11
+e-commerce,digital merchandising,11
+e-commerce,payment gateways,11
+e-commerce,dropshipping,11
+e-commerce,omnichannel retail,11
+e-commerce,personalized shopping,11
+instructional design,learning experience design,10
+instructional design,course development,10
+instructional design,lms (learning management systems),10
+instructional design,articulate storyline,10
+instructional design,instructional technology,10
+instructional design,microlearning,10
+instructional design,scorm,10
+instructional design,learner engagement,10
+instructional design,accessibility in learning,10
+instructional design,competency-based education,10
+space technology,satellite systems,11
+space technology,orbital mechanics,11
+space technology,spacecraft design,11
+space technology,propulsion systems,11
+space technology,space exploration,11
+space technology,remote sensing,11
+space technology,space data analysis,11
+space technology,astrobiology,11
+space technology,space manufacturing,11
+space technology,in-space assembly,11
+space technology,space policy,11
+agricultural technology (agtech),precision agriculture,11
+agricultural technology (agtech),smart farming,11
+agricultural technology (agtech),iot in agriculture,11
+agricultural technology (agtech),crop monitoring,11
+agricultural technology (agtech),drones,11
+agricultural technology (agtech),agronomy,11
+agricultural technology (agtech),hydroponics,11
+agricultural technology (agtech),vertical farming,11
+agricultural technology (agtech),genetic crop improvement,11
+agricultural technology (agtech),farm management software,11
+agricultural technology (agtech),sustainable agriculture,11
+food science,food safety,11
+food science,sensory analysis,11
+food science,food chemistry,11
+food science,product development,11
+food science,nutrition science,11
+food science,food microbiology,11
+food science,food packaging,11
+food science,sustainable food systems,11
+food science,plant-based foods,11
+food science,food regulations,11
+food science,culinary innovation,11
+aviation,flight operations,11
+aviation,aircraft maintenance,11
+aviation,avionics,11
+aviation,aerospace engineering,11
+aviation,air traffic control,11
+aviation,drone piloting,11
+aviation,aviation safety,11
+aviation,flight simulation,11
+aviation,sustainable aviation,11
+aviation,urban air mobility,11
+aviation,aircraft design,11
+sports management,event management,11
+sports management,athlete representation,11
+sports management,sponsorship deals,11
+sports management,sports marketing,11
+sports management,fan engagement,11
+sports management,sports analytics,11
+sports management,facility management,11
+sports management,esports,11
+sports management,sports media,11
+sports management,team operations,11
+sports management,sports technology,11
+hospitality management,guest experience,11
+hospitality management,hotel operations,11
+hospitality management,revenue management,11
+hospitality management,event planning,11
+hospitality management,food and beverage management,11
+hospitality management,tourism,11
+hospitality management,hospitality technology,11
+hospitality management,sustainable hospitality,11
+hospitality management,customer loyalty,11
+hospitality management,front desk operations,11
+hospitality management,travel tech,11
+logistics technology,route optimization,10
+logistics technology,fleet management,10
+logistics technology,warehouse automation,10
+logistics technology,last-mile delivery,10
+logistics technology,supply chain visibility,10
+logistics technology,logistics analytics,10
+logistics technology,freight forwarding,10
+logistics technology,robotics in logistics,10
+logistics technology,digital freight platforms,10
+logistics technology,reverse logistics,10
+real estate technology (proptech),property management,11
+real estate technology (proptech),smart buildings,11
+real estate technology (proptech),real estate analytics,11
+real estate technology (proptech),virtual tours,11
+real estate technology (proptech),blockchain in real estate,11
+real estate technology (proptech),iot for properties,11
+real estate technology (proptech),lease management,11
+real estate technology (proptech),digital twins,11
+real estate technology (proptech),sustainable properties,11
+real estate technology (proptech),tenant experience,11
+real estate technology (proptech),market analysis,11
+automotive engineering,electric vehicles (ev),11
+automotive engineering,autonomous driving,11
+automotive engineering,vehicle dynamics,11
+automotive engineering,battery systems,11
+automotive engineering,automotive software,11
+automotive engineering,telematics,11
+automotive engineering,car design,11
+automotive engineering,lightweight materials,11
+automotive engineering,vehicle safety,11
+automotive engineering,connected vehicles,11
+automotive engineering,v2x communication,11
+ethical hacking,white-hat hacking,11
+ethical hacking,bug bounty,11
+ethical hacking,security auditing,11
+ethical hacking,red teaming,11
+ethical hacking,blue teaming,11
+ethical hacking,social engineering,11
+ethical hacking,malware analysis,11
+ethical hacking,forensic analysis,11
+ethical hacking,threat modeling,11
+ethical hacking,secure code review,11
+ethical hacking,cyber range,11
+community management,online communities,11
+community management,engagement strategies,11
+community management,moderation,11
+community management,social media management,11
+community management,community analytics,11
+community management,brand advocacy,11
+community management,user-generated content,11
+community management,discord,11
+community management,community events,11
+community management,crisis communication,11
+community management,inclusive communities,11

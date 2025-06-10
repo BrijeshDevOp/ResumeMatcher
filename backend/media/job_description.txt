@@ -1,0 +1,7 @@
+Software Engineer Job Description
+
+We are looking for a skilled Software Engineer proficient in Python, Django, and REST APIs.
+The ideal candidate should have experience with database management (PostgreSQL or MySQL)
+and knowledge of frontend technologies like HTML, CSS, and JavaScript.
+Experience in cloud deployment (AWS, Azure) is a plus.
+Strong problem-solving skills and teamwork are essential.
